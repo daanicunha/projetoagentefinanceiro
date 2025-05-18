@@ -9,7 +9,7 @@
 
 Se a resposta for um sonoro "SIM\!", então prepare-se para conhecer o seu novo melhor amigo: um agente de IA tão esperto que parece ter feito MBA em "Como Não Gastar Tudo no Primeiro Dia do Salário" e PhD em "Encontrando a Balada Mais Barata da Região"\! 😎
 
-### 🎯 O Que Essa Mágica Acontece?
+### 🎯 Como essa mágica acontece?
 
 Imagine ter um guru financeiro particular, 24 horas por dia, 7 dias por semana, **sem precisar pagar um cafezinho sequer\!** Nosso agente de IA entra em cena para:
 
